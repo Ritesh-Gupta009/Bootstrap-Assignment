@@ -1,0 +1,30 @@
+(1)What are the default Bootstrap text settings?
+sol.=>Bootstrap 4 uses a default font-size of 16px, and its line-height is 1.5.
+
+(2) What do you know about the Bootstrap Grid System?
+sol=> Bootstrap's grid system uses a series of containers, rows, and columns to layout and align content.
+
+(3) What is the difference between Bootstrap 4 and Bootstrap 5
+sol=> Bootstrap 5 has switched to JavaScript instead of jQuery. Note: Bootstrap 3 and Bootstrap 4 is still supported by the team for critical bugfixes and documentation 
+changes, and it is perfectly safe to continue to use them.
+
+(4)What is a Button Group, and what is the class for a basic Button Group?
+sol=> btn-group-vertical class is used to create a Vertical Button group
+Button groups allow multiple buttons to be stacked together on a single line.
+
+(5) How can you use Bootstrap to make thumbnails?
+sol=>Add an <a> tag with the class of . thumbnail around an image.
+This adds four pixels of padding and a gray border.
+On hover, an animated glow outlines the image.
+
+(6)In Bootstrap 4, what is flexbox?
+sol=>Flexbox is used to quickly manage the layout, alignment and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities.
+ You can also do complex implementations using custom CSS. Flexbox Properties: Enable flex behaviors.
+
+(7) How can one create an alert in Bootstrap?
+sol=>Bootstrap provides an easy way to create predefined 
+alert messages: × Success! This alert box indicates a successful or positive action. × Info!
+
+(8) What is a bootstrap card and how would you create one?
+sol=>A card is a flexible and extensible content container. It includes options for headers and footers, 
+a wide variety of content, contextual background colors, and powerful display options.
